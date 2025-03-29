@@ -12,3 +12,4 @@
 10. KNeighbors Classifier
 11. Logistic Regression
 12. Gaussian Naive Baye's 
+13. CATBoost Algorithm
