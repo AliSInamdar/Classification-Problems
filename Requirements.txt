@@ -1,0 +1,14 @@
+# Project Requirements
+
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Plotly
+5. Seaborn
+6. Scikit-Learn
+7. XGBoost
+8. Random Forest Classifier
+9. Decision Tree Classifier
+10. KNeighbors Classifier
+11. Logistic Regression
+12. Gaussian Naive Baye's 
